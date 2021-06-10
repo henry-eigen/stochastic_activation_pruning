@@ -1,1 +1,1 @@
-# stochastic_activation_pruning
+# Stochastic-Activation-Pruning
