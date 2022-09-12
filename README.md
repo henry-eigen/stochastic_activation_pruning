@@ -6,5 +6,5 @@ Used as an activation for keras conv2d layers like
 
 ```
 x = keras.layers.Conv2D(...)
-x = keras.layers.Activation(lambda acts: SAP(acts, 0.25))(x)
+x = keras.layers.Activation(lambda activations: SAP(activations, 0.25))(x)
 ```
